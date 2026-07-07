@@ -1,0 +1,7 @@
+Concern Description: Container arrived short 15 parts. Container label states 140 parts, arrived with 125.
+Containment Description: Directly after report, recertified all inhouse certified material for correct quantity. No other issues were identified.
+Root Cause: Inspector did not mark every 20th part as defined in the work instruction. Inspector did not have a blue dry erase marker. Blue dry erase markers were not available in the designated location at the supply cage.
+Corrective Action: Work with supply cage manager to ensure necessary supplies are available and in their designated areas.
+Preventive Action: Supervisor will use check sheet to ensure all supplies are available at each work station for the next 30 days. Visiting manager will validate and sign check sheet when on location.
+Defect Code Name: SORT FAILURE
+Type of Root Cause: Inspection error

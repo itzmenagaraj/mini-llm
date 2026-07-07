@@ -1,0 +1,1516 @@
+{
+  "vocab": {
+    "\n": 0,
+    " ": 1,
+    ",": 2,
+    ".": 3,
+    "0": 4,
+    "1": 5,
+    "2": 6,
+    "3": 7,
+    "4": 8,
+    "5": 9,
+    ":": 10,
+    "?": 11,
+    "A": 12,
+    "B": 13,
+    "C": 14,
+    "D": 15,
+    "E": 16,
+    "F": 17,
+    "G": 18,
+    "H": 19,
+    "I": 20,
+    "K": 21,
+    "L": 22,
+    "M": 23,
+    "N": 24,
+    "O": 25,
+    "P": 26,
+    "Q": 27,
+    "R": 28,
+    "S": 29,
+    "T": 30,
+    "U": 31,
+    "V": 32,
+    "W": 33,
+    "a": 34,
+    "b": 35,
+    "c": 36,
+    "d": 37,
+    "e": 38,
+    "f": 39,
+    "g": 40,
+    "h": 41,
+    "i": 42,
+    "k": 43,
+    "l": 44,
+    "m": 45,
+    "n": 46,
+    "o": 47,
+    "p": 48,
+    "q": 49,
+    "r": 50,
+    "s": 51,
+    "t": 52,
+    "u": 53,
+    "v": 54,
+    "w": 55,
+    "x": 56,
+    "y": 57,
+    "e ": 58,
+    "on": 59,
+    "er": 60,
+    "s ": 61,
+    "ti": 62,
+    "t ": 63,
+    "in": 64,
+    "or": 65,
+    "en": 66,
+    ".\n": 67,
+    "tion": 68,
+    "re": 69,
+    "d ": 70,
+    ": ": 71,
+    " t": 72,
+    "an": 73,
+    "ed ": 74,
+    "ar": 75,
+    "l ": 76,
+    "he ": 77,
+    "es": 78,
+    "ing": 79,
+    "ok": 80,
+    "er ": 81,
+    "ec": 82,
+    "tion: ": 83,
+    "oken": 84,
+    "at": 85,
+    "se": 86,
+    "y ": 87,
+    "for": 88,
+    "ro": 89,
+    "s.\n": 90,
+    "lo": 91,
+    "ch": 92,
+    "tion ": 93,
+    "is ": 94,
+    "od": 95,
+    "ot ": 96,
+    "ain": 97,
+    "ing ": 98,
+    "il": 99,
+    "ic": 100,
+    " the ": 101,
+    "be": 102,
+    "ip": 103,
+    "pre": 104,
+    "ur": 105,
+    "cr": 106,
+    "token": 107,
+    "at ": 108,
+    " p": 109,
+    "rec": 110,
+    "ag": 111,
+    "me": 112,
+    "use": 113,
+    "Con": 114,
+    "ve ": 115,
+    "a ": 116,
+    "al": 117,
+    "or ": 118,
+    "th": 119,
+    "f ": 120,
+    "ect": 121,
+    "is": 122,
+    "ent ": 123,
+    "ns": 124,
+    "tive ": 125,
+    "el": 126,
+    "mod": 127,
+    " token": 128,
+    "ac": 129,
+    "su": 130,
+    "ts ": 131,
+    "tion.\n": 132,
+    "hat ": 133,
+    "es ": 134,
+    "ver": 135,
+    "la": 136,
+    "Des": 137,
+    "Descr": 138,
+    "Descrip": 139,
+    "Description: ": 140,
+    "ment ": 141,
+    "orrec": 142,
+    "wer": 143,
+    "Ro": 144,
+    "Root ": 145,
+    "Root C": 146,
+    "Root Ca": 147,
+    "Root Cause": 148,
+    "Root Cause: ": 149,
+    "tive A": 150,
+    "tive Ac": 151,
+    "tive Action: ": 152,
+    "us": 153,
+    "tr": 154,
+    "\nA": 155,
+    "ne": 156,
+    "and ": 157,
+    "if": 158,
+    "form": 159,
+    "ation ": 160,
+    "to": 161,
+    "pro": 162,
+    "sh": 163,
+    "per": 164,
+    "on ": 165,
+    "age ": 166,
+    " d": 167,
+    "n ": 168,
+    "pred": 169,
+    "predic": 170,
+    "t token": 171,
+    "The ": 172,
+    "ten": 173,
+    "ea": 174,
+    "Qu": 175,
+    "ab": 176,
+    "Cont": 177,
+    "Contain": 178,
+    " par": 179,
+    "al ": 180,
+    "qu": 181,
+    "k ": 182,
+    "ven": 183,
+    "all ": 184,
+    "not ": 185,
+    "mode": 186,
+    "model ": 187,
+    "nex": 188,
+    " b": 189,
+    "wor": 190,
+    "the ": 191,
+    " tr": 192,
+    "atten": 193,
+    "\nT": 194,
+    "em": 195,
+    "embe": 196,
+    "embed": 197,
+    "embedd": 198,
+    "loc": 199,
+    "ces": 200,
+    "ation.\n": 201,
+    "cer": 202,
+    ". ": 203,
+    "labe": 204,
+    "ail": 205,
+    "Correc": 206,
+    "wil": 207,
+    "will ": 208,
+    "of ": 209,
+    "verif": 210,
+    "\nQu": 211,
+    "\nQues": 212,
+    "\nQuestion: ": 213,
+    "\nQuestion: W": 214,
+    "\nQuestion: What ": 215,
+    "\nQuestion: What is ": 216,
+    "?\nA": 217,
+    "?\nAns": 218,
+    "?\nAnswer": 219,
+    "?\nAnswer: ": 220,
+    ".\nI": 221,
+    "lan": 222,
+    "lang": 223,
+    "langu": 224,
+    "language ": 225,
+    "ated ": 226,
+    "fro": 227,
+    "from": 228,
+    "atch": 229,
+    "use ": 230,
+    "train": 231,
+    "le": 232,
+    "ly ": 233,
+    "next token": 234,
+    " token ": 235,
+    "wi": 236,
+    "with": 237,
+    "mean": 238,
+    "means ": 239,
+    "ans": 240,
+    "ansform": 241,
+    "sel": 242,
+    "f atten": 243,
+    "each": 244,
+    "as": 245,
+    "ected ": 246,
+    "\nCon": 247,
+    "\nConcer": 248,
+    "\nConcern ": 249,
+    "\nConcern Description: ": 250,
+    "iv": 251,
+    "ived ": 252,
+    "Containment ": 253,
+    "Containment Description: ": 254,
+    "for ": 255,
+    "Ins": 256,
+    "Insp": 257,
+    "av": 258,
+    "avail": 259,
+    "availab": 260,
+    "availabl": 261,
+    "available ": 262,
+    "sup": 263,
+    "supp": 264,
+    "Corrective Action: ": 265,
+    "Pre": 266,
+    "Preven": 267,
+    "Preventive Action: ": 268,
+    "30": 269,
+    "30 d": 270,
+    "30 da": 271,
+    "30 day": 272,
+    "De": 273,
+    "Def": 274,
+    "Defec": 275,
+    "Defect ": 276,
+    "Defect C": 277,
+    "Defect Cod": 278,
+    "Defect Code ": 279,
+    "Defect Code N": 280,
+    "Defect Code Na": 281,
+    "Defect Code Name": 282,
+    "Defect Code Name: ": 283,
+    "\nTy": 284,
+    "\nTyp": 285,
+    "\nType ": 286,
+    "\nType of ": 287,
+    "\nType of Root Cause: ": 288,
+    "err": 289,
+    "error": 290,
+    "error\n": 291,
+    "dur": 292,
+    "pac": 293,
+    "pack": 294,
+    "par": 295,
+    ".\nI ": 296,
+    "model": 297,
+    "scr": 298,
+    "scratch": 299
+  },
+  "merges": [
+    [
+      "e",
+      " ",
+      "e "
+    ],
+    [
+      "o",
+      "n",
+      "on"
+    ],
+    [
+      "e",
+      "r",
+      "er"
+    ],
+    [
+      "s",
+      " ",
+      "s "
+    ],
+    [
+      "t",
+      "i",
+      "ti"
+    ],
+    [
+      "t",
+      " ",
+      "t "
+    ],
+    [
+      "i",
+      "n",
+      "in"
+    ],
+    [
+      "o",
+      "r",
+      "or"
+    ],
+    [
+      "e",
+      "n",
+      "en"
+    ],
+    [
+      ".",
+      "\n",
+      ".\n"
+    ],
+    [
+      "ti",
+      "on",
+      "tion"
+    ],
+    [
+      "r",
+      "e",
+      "re"
+    ],
+    [
+      "d",
+      " ",
+      "d "
+    ],
+    [
+      ":",
+      " ",
+      ": "
+    ],
+    [
+      " ",
+      "t",
+      " t"
+    ],
+    [
+      "a",
+      "n",
+      "an"
+    ],
+    [
+      "e",
+      "d ",
+      "ed "
+    ],
+    [
+      "a",
+      "r",
+      "ar"
+    ],
+    [
+      "l",
+      " ",
+      "l "
+    ],
+    [
+      "h",
+      "e ",
+      "he "
+    ],
+    [
+      "e",
+      "s",
+      "es"
+    ],
+    [
+      "in",
+      "g",
+      "ing"
+    ],
+    [
+      "o",
+      "k",
+      "ok"
+    ],
+    [
+      "er",
+      " ",
+      "er "
+    ],
+    [
+      "e",
+      "c",
+      "ec"
+    ],
+    [
+      "tion",
+      ": ",
+      "tion: "
+    ],
+    [
+      "ok",
+      "en",
+      "oken"
+    ],
+    [
+      "a",
+      "t",
+      "at"
+    ],
+    [
+      "s",
+      "e",
+      "se"
+    ],
+    [
+      "y",
+      " ",
+      "y "
+    ],
+    [
+      "f",
+      "or",
+      "for"
+    ],
+    [
+      "r",
+      "o",
+      "ro"
+    ],
+    [
+      "s",
+      ".\n",
+      "s.\n"
+    ],
+    [
+      "l",
+      "o",
+      "lo"
+    ],
+    [
+      "c",
+      "h",
+      "ch"
+    ],
+    [
+      "tion",
+      " ",
+      "tion "
+    ],
+    [
+      "i",
+      "s ",
+      "is "
+    ],
+    [
+      "o",
+      "d",
+      "od"
+    ],
+    [
+      "o",
+      "t ",
+      "ot "
+    ],
+    [
+      "a",
+      "in",
+      "ain"
+    ],
+    [
+      "ing",
+      " ",
+      "ing "
+    ],
+    [
+      "i",
+      "l",
+      "il"
+    ],
+    [
+      "i",
+      "c",
+      "ic"
+    ],
+    [
+      " t",
+      "he ",
+      " the "
+    ],
+    [
+      "b",
+      "e",
+      "be"
+    ],
+    [
+      "i",
+      "p",
+      "ip"
+    ],
+    [
+      "p",
+      "re",
+      "pre"
+    ],
+    [
+      "u",
+      "r",
+      "ur"
+    ],
+    [
+      "c",
+      "r",
+      "cr"
+    ],
+    [
+      "t",
+      "oken",
+      "token"
+    ],
+    [
+      "a",
+      "t ",
+      "at "
+    ],
+    [
+      " ",
+      "p",
+      " p"
+    ],
+    [
+      "re",
+      "c",
+      "rec"
+    ],
+    [
+      "a",
+      "g",
+      "ag"
+    ],
+    [
+      "m",
+      "e",
+      "me"
+    ],
+    [
+      "u",
+      "se",
+      "use"
+    ],
+    [
+      "C",
+      "on",
+      "Con"
+    ],
+    [
+      "v",
+      "e ",
+      "ve "
+    ],
+    [
+      "a",
+      " ",
+      "a "
+    ],
+    [
+      "a",
+      "l",
+      "al"
+    ],
+    [
+      "or",
+      " ",
+      "or "
+    ],
+    [
+      "t",
+      "h",
+      "th"
+    ],
+    [
+      "f",
+      " ",
+      "f "
+    ],
+    [
+      "ec",
+      "t",
+      "ect"
+    ],
+    [
+      "i",
+      "s",
+      "is"
+    ],
+    [
+      "en",
+      "t ",
+      "ent "
+    ],
+    [
+      "n",
+      "s",
+      "ns"
+    ],
+    [
+      "ti",
+      "ve ",
+      "tive "
+    ],
+    [
+      "e",
+      "l",
+      "el"
+    ],
+    [
+      "m",
+      "od",
+      "mod"
+    ],
+    [
+      " t",
+      "oken",
+      " token"
+    ],
+    [
+      "a",
+      "c",
+      "ac"
+    ],
+    [
+      "s",
+      "u",
+      "su"
+    ],
+    [
+      "t",
+      "s ",
+      "ts "
+    ],
+    [
+      "tion",
+      ".\n",
+      "tion.\n"
+    ],
+    [
+      "h",
+      "at ",
+      "hat "
+    ],
+    [
+      "e",
+      "s ",
+      "es "
+    ],
+    [
+      "v",
+      "er",
+      "ver"
+    ],
+    [
+      "l",
+      "a",
+      "la"
+    ],
+    [
+      "D",
+      "es",
+      "Des"
+    ],
+    [
+      "Des",
+      "cr",
+      "Descr"
+    ],
+    [
+      "Descr",
+      "ip",
+      "Descrip"
+    ],
+    [
+      "Descrip",
+      "tion: ",
+      "Description: "
+    ],
+    [
+      "m",
+      "ent ",
+      "ment "
+    ],
+    [
+      "or",
+      "rec",
+      "orrec"
+    ],
+    [
+      "w",
+      "er",
+      "wer"
+    ],
+    [
+      "R",
+      "o",
+      "Ro"
+    ],
+    [
+      "Ro",
+      "ot ",
+      "Root "
+    ],
+    [
+      "Root ",
+      "C",
+      "Root C"
+    ],
+    [
+      "Root C",
+      "a",
+      "Root Ca"
+    ],
+    [
+      "Root Ca",
+      "use",
+      "Root Cause"
+    ],
+    [
+      "Root Cause",
+      ": ",
+      "Root Cause: "
+    ],
+    [
+      "tive ",
+      "A",
+      "tive A"
+    ],
+    [
+      "tive A",
+      "c",
+      "tive Ac"
+    ],
+    [
+      "tive Ac",
+      "tion: ",
+      "tive Action: "
+    ],
+    [
+      "u",
+      "s",
+      "us"
+    ],
+    [
+      "t",
+      "r",
+      "tr"
+    ],
+    [
+      "\n",
+      "A",
+      "\nA"
+    ],
+    [
+      "n",
+      "e",
+      "ne"
+    ],
+    [
+      "an",
+      "d ",
+      "and "
+    ],
+    [
+      "i",
+      "f",
+      "if"
+    ],
+    [
+      "for",
+      "m",
+      "form"
+    ],
+    [
+      "a",
+      "tion ",
+      "ation "
+    ],
+    [
+      "t",
+      "o",
+      "to"
+    ],
+    [
+      "p",
+      "ro",
+      "pro"
+    ],
+    [
+      "s",
+      "h",
+      "sh"
+    ],
+    [
+      "p",
+      "er",
+      "per"
+    ],
+    [
+      "on",
+      " ",
+      "on "
+    ],
+    [
+      "ag",
+      "e ",
+      "age "
+    ],
+    [
+      " ",
+      "d",
+      " d"
+    ],
+    [
+      "n",
+      " ",
+      "n "
+    ],
+    [
+      "pre",
+      "d",
+      "pred"
+    ],
+    [
+      "pred",
+      "ic",
+      "predic"
+    ],
+    [
+      "t ",
+      "token",
+      "t token"
+    ],
+    [
+      "T",
+      "he ",
+      "The "
+    ],
+    [
+      "t",
+      "en",
+      "ten"
+    ],
+    [
+      "e",
+      "a",
+      "ea"
+    ],
+    [
+      "Q",
+      "u",
+      "Qu"
+    ],
+    [
+      "a",
+      "b",
+      "ab"
+    ],
+    [
+      "Con",
+      "t",
+      "Cont"
+    ],
+    [
+      "Cont",
+      "ain",
+      "Contain"
+    ],
+    [
+      " p",
+      "ar",
+      " par"
+    ],
+    [
+      "a",
+      "l ",
+      "al "
+    ],
+    [
+      "q",
+      "u",
+      "qu"
+    ],
+    [
+      "k",
+      " ",
+      "k "
+    ],
+    [
+      "v",
+      "en",
+      "ven"
+    ],
+    [
+      "al",
+      "l ",
+      "all "
+    ],
+    [
+      "n",
+      "ot ",
+      "not "
+    ],
+    [
+      "mod",
+      "e",
+      "mode"
+    ],
+    [
+      "mode",
+      "l ",
+      "model "
+    ],
+    [
+      "ne",
+      "x",
+      "nex"
+    ],
+    [
+      " ",
+      "b",
+      " b"
+    ],
+    [
+      "w",
+      "or",
+      "wor"
+    ],
+    [
+      "t",
+      "he ",
+      "the "
+    ],
+    [
+      " t",
+      "r",
+      " tr"
+    ],
+    [
+      "at",
+      "ten",
+      "atten"
+    ],
+    [
+      "\n",
+      "T",
+      "\nT"
+    ],
+    [
+      "e",
+      "m",
+      "em"
+    ],
+    [
+      "em",
+      "be",
+      "embe"
+    ],
+    [
+      "embe",
+      "d",
+      "embed"
+    ],
+    [
+      "embed",
+      "d",
+      "embedd"
+    ],
+    [
+      "lo",
+      "c",
+      "loc"
+    ],
+    [
+      "c",
+      "es",
+      "ces"
+    ],
+    [
+      "a",
+      "tion.\n",
+      "ation.\n"
+    ],
+    [
+      "c",
+      "er",
+      "cer"
+    ],
+    [
+      ".",
+      " ",
+      ". "
+    ],
+    [
+      "la",
+      "be",
+      "labe"
+    ],
+    [
+      "a",
+      "il",
+      "ail"
+    ],
+    [
+      "C",
+      "orrec",
+      "Correc"
+    ],
+    [
+      "w",
+      "il",
+      "wil"
+    ],
+    [
+      "wil",
+      "l ",
+      "will "
+    ],
+    [
+      "o",
+      "f ",
+      "of "
+    ],
+    [
+      "ver",
+      "if",
+      "verif"
+    ],
+    [
+      "\n",
+      "Qu",
+      "\nQu"
+    ],
+    [
+      "\nQu",
+      "es",
+      "\nQues"
+    ],
+    [
+      "\nQues",
+      "tion: ",
+      "\nQuestion: "
+    ],
+    [
+      "\nQuestion: ",
+      "W",
+      "\nQuestion: W"
+    ],
+    [
+      "\nQuestion: W",
+      "hat ",
+      "\nQuestion: What "
+    ],
+    [
+      "\nQuestion: What ",
+      "is ",
+      "\nQuestion: What is "
+    ],
+    [
+      "?",
+      "\nA",
+      "?\nA"
+    ],
+    [
+      "?\nA",
+      "ns",
+      "?\nAns"
+    ],
+    [
+      "?\nAns",
+      "wer",
+      "?\nAnswer"
+    ],
+    [
+      "?\nAnswer",
+      ": ",
+      "?\nAnswer: "
+    ],
+    [
+      ".\n",
+      "I",
+      ".\nI"
+    ],
+    [
+      "l",
+      "an",
+      "lan"
+    ],
+    [
+      "lan",
+      "g",
+      "lang"
+    ],
+    [
+      "lang",
+      "u",
+      "langu"
+    ],
+    [
+      "langu",
+      "age ",
+      "language "
+    ],
+    [
+      "at",
+      "ed ",
+      "ated "
+    ],
+    [
+      "f",
+      "ro",
+      "fro"
+    ],
+    [
+      "fro",
+      "m",
+      "from"
+    ],
+    [
+      "at",
+      "ch",
+      "atch"
+    ],
+    [
+      "us",
+      "e ",
+      "use "
+    ],
+    [
+      "tr",
+      "ain",
+      "train"
+    ],
+    [
+      "l",
+      "e",
+      "le"
+    ],
+    [
+      "l",
+      "y ",
+      "ly "
+    ],
+    [
+      "nex",
+      "t token",
+      "next token"
+    ],
+    [
+      " token",
+      " ",
+      " token "
+    ],
+    [
+      "w",
+      "i",
+      "wi"
+    ],
+    [
+      "wi",
+      "th",
+      "with"
+    ],
+    [
+      "me",
+      "an",
+      "mean"
+    ],
+    [
+      "mean",
+      "s ",
+      "means "
+    ],
+    [
+      "an",
+      "s",
+      "ans"
+    ],
+    [
+      "ans",
+      "form",
+      "ansform"
+    ],
+    [
+      "se",
+      "l",
+      "sel"
+    ],
+    [
+      "f ",
+      "atten",
+      "f atten"
+    ],
+    [
+      "ea",
+      "ch",
+      "each"
+    ],
+    [
+      "a",
+      "s",
+      "as"
+    ],
+    [
+      "ect",
+      "ed ",
+      "ected "
+    ],
+    [
+      "\n",
+      "Con",
+      "\nCon"
+    ],
+    [
+      "\nCon",
+      "cer",
+      "\nConcer"
+    ],
+    [
+      "\nConcer",
+      "n ",
+      "\nConcern "
+    ],
+    [
+      "\nConcern ",
+      "Description: ",
+      "\nConcern Description: "
+    ],
+    [
+      "i",
+      "v",
+      "iv"
+    ],
+    [
+      "iv",
+      "ed ",
+      "ived "
+    ],
+    [
+      "Contain",
+      "ment ",
+      "Containment "
+    ],
+    [
+      "Containment ",
+      "Description: ",
+      "Containment Description: "
+    ],
+    [
+      "for",
+      " ",
+      "for "
+    ],
+    [
+      "I",
+      "ns",
+      "Ins"
+    ],
+    [
+      "Ins",
+      "p",
+      "Insp"
+    ],
+    [
+      "a",
+      "v",
+      "av"
+    ],
+    [
+      "av",
+      "ail",
+      "avail"
+    ],
+    [
+      "avail",
+      "ab",
+      "availab"
+    ],
+    [
+      "availab",
+      "l",
+      "availabl"
+    ],
+    [
+      "availabl",
+      "e ",
+      "available "
+    ],
+    [
+      "su",
+      "p",
+      "sup"
+    ],
+    [
+      "sup",
+      "p",
+      "supp"
+    ],
+    [
+      "Correc",
+      "tive Action: ",
+      "Corrective Action: "
+    ],
+    [
+      "P",
+      "re",
+      "Pre"
+    ],
+    [
+      "Pre",
+      "ven",
+      "Preven"
+    ],
+    [
+      "Preven",
+      "tive Action: ",
+      "Preventive Action: "
+    ],
+    [
+      "3",
+      "0",
+      "30"
+    ],
+    [
+      "30",
+      " d",
+      "30 d"
+    ],
+    [
+      "30 d",
+      "a",
+      "30 da"
+    ],
+    [
+      "30 da",
+      "y",
+      "30 day"
+    ],
+    [
+      "D",
+      "e",
+      "De"
+    ],
+    [
+      "De",
+      "f",
+      "Def"
+    ],
+    [
+      "Def",
+      "ec",
+      "Defec"
+    ],
+    [
+      "Defec",
+      "t ",
+      "Defect "
+    ],
+    [
+      "Defect ",
+      "C",
+      "Defect C"
+    ],
+    [
+      "Defect C",
+      "od",
+      "Defect Cod"
+    ],
+    [
+      "Defect Cod",
+      "e ",
+      "Defect Code "
+    ],
+    [
+      "Defect Code ",
+      "N",
+      "Defect Code N"
+    ],
+    [
+      "Defect Code N",
+      "a",
+      "Defect Code Na"
+    ],
+    [
+      "Defect Code Na",
+      "me",
+      "Defect Code Name"
+    ],
+    [
+      "Defect Code Name",
+      ": ",
+      "Defect Code Name: "
+    ],
+    [
+      "\nT",
+      "y",
+      "\nTy"
+    ],
+    [
+      "\nTy",
+      "p",
+      "\nTyp"
+    ],
+    [
+      "\nTyp",
+      "e ",
+      "\nType "
+    ],
+    [
+      "\nType ",
+      "of ",
+      "\nType of "
+    ],
+    [
+      "\nType of ",
+      "Root Cause: ",
+      "\nType of Root Cause: "
+    ],
+    [
+      "er",
+      "r",
+      "err"
+    ],
+    [
+      "err",
+      "or",
+      "error"
+    ],
+    [
+      "error",
+      "\n",
+      "error\n"
+    ],
+    [
+      "d",
+      "ur",
+      "dur"
+    ],
+    [
+      "p",
+      "ac",
+      "pac"
+    ],
+    [
+      "pac",
+      "k",
+      "pack"
+    ],
+    [
+      "p",
+      "ar",
+      "par"
+    ],
+    [
+      ".\nI",
+      " ",
+      ".\nI "
+    ],
+    [
+      "mod",
+      "el",
+      "model"
+    ],
+    [
+      "s",
+      "cr",
+      "scr"
+    ],
+    [
+      "scr",
+      "atch",
+      "scratch"
+    ]
+  ]
+}

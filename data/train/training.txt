@@ -1,0 +1,75 @@
+Hello.
+My name is MiniGPT.
+I am a small language model.
+I was created from scratch.
+I do not use pretrained knowledge.
+I learn only from this training file.
+
+A language model learns by predicting the next token.
+A token can be a character, a word, or a subword.
+The model reads input tokens and predicts the next token.
+During training, the model compares prediction with target.
+The difference is called loss.
+Lower loss means better prediction.
+
+A transformer uses self attention.
+Self attention helps each token look at previous tokens.
+Query means what the token is looking for.
+Key means what information a token has.
+Value means what information a token passes forward.
+Attention scores decide which tokens are important.
+
+Token embedding converts token IDs into vectors.
+Position embedding tells the model the order of tokens.
+The transformer block processes embeddings.
+The feed forward layer improves each token representation.
+The output layer produces logits.
+Softmax converts logits into probabilities.
+The next token is selected from the probability distribution.
+
+Concern Description: Container arrived short 15 parts. Container label states 140 parts, but the customer received 125 parts.
+Containment Description: Recertified all inhouse certified material for correct quantity. No other quantity issues were identified.
+Root Cause: Inspector did not mark every 20th part as required by the work instruction. Inspector did not have a blue dry erase marker. Blue dry erase markers were not available in the designated supply cage location.
+Corrective Action: Work with the supply cage manager to ensure required supplies are available in the correct designated areas.
+Preventive Action: Supervisor will use a check sheet to ensure all supplies are available at each workstation for the next 30 days. Visiting manager will validate and sign the check sheet when on location.
+Defect Code Name: SORT FAILURE
+Type of Root Cause: Inspection error
+
+Concern Description: Customer reported missing labels on shipped boxes.
+Containment Description: Checked all remaining inventory and verified label presence on each box.
+Root Cause: Operator skipped final label verification during packing.
+Corrective Action: Retrain operator on final packing verification process.
+Preventive Action: Supervisor will audit packed boxes twice per shift for 30 days.
+Defect Code Name: LABEL FAILURE
+Type of Root Cause: Process error
+
+Concern Description: Customer received parts with surface scratches.
+Containment Description: Inspected all available finished goods and separated scratched parts.
+Root Cause: Parts were not protected properly during internal handling.
+Corrective Action: Add protective layer between parts during movement and storage.
+Preventive Action: Team lead will verify packaging method before shipment for 30 days.
+Defect Code Name: COSMETIC DAMAGE
+Type of Root Cause: Handling error
+
+Concern Description: Shipment arrived with incorrect part number.
+Containment Description: Reviewed current inventory and shipment records for part number mismatch.
+Root Cause: Picker selected material from the wrong bin location.
+Corrective Action: Correct bin labels and retrain picker on location verification.
+Preventive Action: Warehouse supervisor will perform daily bin accuracy checks for 30 days.
+Defect Code Name: WRONG PART
+Type of Root Cause: Picking error
+
+Question: What is a language model?
+Answer: A language model predicts the next token based on previous tokens.
+
+Question: What is self attention?
+Answer: Self attention allows tokens to focus on other relevant tokens in the input sequence.
+
+Question: What is loss?
+Answer: Loss measures how wrong the model prediction is during training.
+
+Question: What is an embedding?
+Answer: An embedding is a vector representation of a token.
+
+Question: What is a transformer?
+Answer: A transformer is a neural network architecture that uses attention to process sequences.
